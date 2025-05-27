@@ -45,15 +45,7 @@
             <li>📌 <span class="highlight">ทัศนศึกษา</span> (Field trip)</li>
             <li>📌 <span class="highlight">อภิปรายกลุ่มย่อย</span> (Small Group Discussion)</li>
             <li>📌 <span class="highlight">ละคร</span> (Dramatization)</li>
-            <li>📌 <span class="highlight">บทบาทสมมติ</span> (Role Playing)</li>
-            <li>📌 <span class="highlight">กรณีตัวอย่าง</span> (Case Study)</li>
-            <li>📌 <span class="highlight">เกม</span> (Game)</li>
-            <li>📌 <span class="highlight">สถานการณ์จำลอง</span> (Simulation)</li>
-            <li>📌 <span class="highlight">นิรนัย</span> (Deduction)</li>
-            <li>📌 <span class="highlight">อุปนัย</span> (Induction)</li>
-            <li>📌 <span class="highlight">ศูนย์การเรียน</span> (Learning Center)</li>
-            <li>📌 <span class="highlight">บทเรียนแบบโปรแกรม</span> (Programmed Instruction)</li>
-            <li>📌 PBL, PiBL, RBL, ABL, STEM ฯลฯ</li>
+ 
         </ul>
     </div>
 </body>
