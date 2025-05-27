@@ -38,7 +38,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Samrit รูปแบบและวิธีสอนแบบต่าง ๆ</h1>
+        <h1>Samrit Thongphat รูปแบบและวิธีสอนแบบต่าง ๆ</h1>
         <ul>
             <li>📌 <span class="highlight">บรรยาย</span> (Lecture)</li>
             <li>📌 <span class="highlight">สาธิต</span> (Demonstration)</li>
